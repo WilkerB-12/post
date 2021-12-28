@@ -1,0 +1,1 @@
+Este es un ejercicio basado en HTML y CSS, consiste en la creación de un post como proyecto de 4Geeks Program.
